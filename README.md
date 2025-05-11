@@ -16,12 +16,29 @@ This project explores different implementations of **FunkSVD** — a matrix fact
 
 ---
 
+## Models Implemented
+
+- **FunkSVD with SGD (No Bias)**: Learns latent factors without user/item biases.
+- **FunkSVD with SGD (With Bias)**: Adds user and item bias terms to the prediction formula.
+- **FunkSVD with ALS**: Uses alternating optimization to learn factor matrices.
+
+---
+
 ## Goals
 
 - Implementation of funksvd algorithm
 - Understand the impact of bias terms
 - Compare convergence and RMSE across different training approaches
 - Visualize overfitting trends using validation curves
+
+---
+
+## How to Run
+
+Open each `.ipynb` file using Jupyter Notebook or VSCode.  
+All datasets and code are self-contained.
+
+---
 
 ## Group Members
 
