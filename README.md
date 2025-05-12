@@ -43,5 +43,5 @@ All datasets and code are self-contained.
 ## Group Members
 
 - Sajjad Ayashm  
-- Mert Kr  
+- Mert Kir  
 - Yaqiao Huang
